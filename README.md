@@ -5,11 +5,12 @@ This repository contains a small example project that demonstrates using XGBoost
 
 ```text
 XGBoost-project---1-/
-├── README.md          # Project documentation
-├── code.ipynb         # Main Jupyter notebook with XGBoost implementation
-└── data/              # (Optional) Directory for datasets
-    ├── train.csv      # Training data
-    └── test.csv       # Test data
+├── README.md                    # Project documentation
+├── code/                        # Source code and notebooks
+│   └── code.ipynb              # Main Jupyter notebook with XGBoost implementation
+├── data/                        # Dataset directory
+│   └── diamonds.csv            # Diamond dataset
+
 ```
 
 ## Contents
