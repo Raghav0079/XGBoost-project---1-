@@ -61,11 +61,7 @@ The notebook includes standard classification/regression metrics depending on th
 - This project uses the XGBoost sklearn-compatible API (XGBClassifier / XGBRegressor).
 - The notebook is intended for educational/demo use. For production training consider additional concerns (data validation, reproducible seeds, logging, checkpointing, and model serialization).
 
-## Optional improvements (next steps)
 
-- Add a `requirements.txt` with pinned package versions.
-- Add example data in a `data/` folder and update the notebook to load it.
-- Add a small script to run training from the command line (e.g., `train.py`) and unit tests for preprocessing logic.
 
 ## License
 
